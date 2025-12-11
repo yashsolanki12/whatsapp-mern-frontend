@@ -19,6 +19,7 @@
     "vite": "vite",
     "typecheck": "react-router typegen && tsc --noEmit",
     "postbuild": "copy ./public/_redirects ./build/_redirects"
+    
   },
   "type": "module",
   "engines": {
